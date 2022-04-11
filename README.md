@@ -20,13 +20,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TinaBBB&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="TinaBBB" /></p>
-
-<br>
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="tinashen.tianshu@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -120,18 +113,14 @@
 <br/>
 
 ## 📊 Github Stats
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/tinabbb/github-readme-stats"><img alt="TinaBBB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tinabbb&count_private=true" height="192px"/></a>
-  <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinabbb&layout=compact" alt="TinaBBB" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="TinaBBB's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tinabbb&custom_title=TinaBBB's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<br/>
+<p align="left">
+  <a href="https://tinabbb.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tinabbb&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinabbb&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![TinaBBB Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinabbb&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tinabbb.dev)
